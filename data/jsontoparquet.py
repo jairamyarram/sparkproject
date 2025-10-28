@@ -61,6 +61,7 @@ def process_json_to_parquet():
     except Exception as e:
         error_message = f"An error occurred during PySpark processing: {e}"
         print(error_message)
+        print("failed email")
         send_email("PySpark Job Failed: Processing Error", error_message)
     finally:
         if 'spark' in locals():
