@@ -1,0 +1,562 @@
+brand,cc,mileage,name,power,price,rating,type
+Honda,123.94 cc,60 kmpl,Honda SP 125,10.87 PS,"Rs.89,468 - 1 Lakh*(View On Road Price)",4.5/5,bike
+Honda,123.94 cc,55 kmpl,Honda Shine,10.74 PS,"Rs.83,251 - 89,772*(View On Road Price)",4.3/5,bike
+Honda,184.4 cc,57.35 kmpl,Honda Hornet 2.0,17.26 PS,Rs.1.43 - 1.57 Lakh*(View On Road Price),4.7/5,bike
+Honda,162.71 cc,65 kmpl,Honda SP160,13.46 PS,Rs.1.21 - 1.28 Lakh*(View On Road Price),4.6/5,bike
+Honda,348.36 cc,45.8 kmpl,Honda Hness CB350,21.07 PS,Rs.2.11 - 2.16 Lakh*(View On Road Price),4.3/5,bike
+Honda,162.71 cc,50 kmpl,Honda Unicorn,13.18 PS,Rs.1.20 Lakh*(View On Road Price),4.6/5,bike
+Honda,348.36 cc,42.17 kmpl,Honda CB350,21.07 PS,Rs.2 - 2.18 Lakh*(View On Road Price),4.4/5,bike
+Honda,348.36 cc,35 kmpl,Honda CB350RS,21.07 PS,Rs.2.16 - 2.19 Lakh*(View On Road Price),4.2/5,bike
+Honda,109.51 cc,60 kmpl,Honda Livo,8.79 PS,"Rs.81,651 - 85,651*(View On Road Price)",4.4/5,bike
+Honda,98.98 cc,55 kmpl,Honda Shine 100,7.38 PS,"Rs.66,900 - 68,794*(View On Road Price)",4.3/5,bike
+Honda,649 cc,25 Kmpl,Honda CBR650R,95.17 PS,Rs.10.40 Lakh*(View On Road Price),4.2/5,bike
+Honda,184.4 cc,40 kmpl,Honda CB200X,17.26 PS,Rs.1.51 Lakh*(View On Road Price),4.3/5,bike
+Honda,109.51 cc,65 kmpl,Honda CD 110 Dream,8.79 PS,"Rs.76,401*(View On Road Price)",4.4/5,bike
+Honda,286.01 cc,30 kmpl,Honda CB300R,31.13 PS,Rs.2.40 Lakh*(View On Road Price),4.3/5,bike
+Honda,293.52 cc,30 kmpl,Honda CB300F,24.4 PS,Rs.1.70 Lakh*(View On Road Price),4.3/5,bike
+Honda,649 cc,20.4 Kmpl,Honda CB650R,95.17 PS,Rs.9.60 Lakh*(View On Road Price),4.5/5,bike
+Honda,184.4 cc,35 Kmpl,Honda NX200,16.99 PS,Rs.1.69 Lakh*(View On Road Price),4.7/5,bike
+Honda,1833 cc,14 kmpl,Honda Gold Wing,126.4 PS,Rs.39.16 Lakh*(View On Road Price),4.8/5,bike
+Honda,471 cc,27.78 kmpl,Honda NX500,47.5 PS,Rs.5.90 Lakh*(View On Road Price),4.7/5,bike
+Honda,,293.52 cc,Honda CB300F Flex-Fuel,,Rs.1.70 Lakh*(View On Road Price),4.7/5,bike
+Honda,1082.96 cc,20 kmpl,Honda CRF1100L Africa Twin,99.2 PS,Rs.15.97 - 17.51 Lakh*(View On Road Price),4.5/5,bike
+Honda,755 cc,23 kmpl,Honda XL750 Transalp,91.7 PS,Rs.11 Lakh*(View On Road Price),4.6/5,bike
+Royal Enfield,349 cc,41.55 kmpl,Royal Enfield Classic 350,20.21 PS,Rs.1.95 - 2.33 Lakh*(View On Road Price),4.4/5,bike
+Royal Enfield,349 cc,36.2 kmpl,Royal Enfield Hunter 350,20.21 PS,Rs.1.50 - 1.82 Lakh*(View On Road Price),4.4/5,bike
+Royal Enfield,647.95 cc,27 kmpl,Royal Enfield Continental GT 650,47.4 PS,Rs.3.23 - 3.49 Lakh*(View On Road Price),4.3/5,bike
+Royal Enfield,349 cc,37 kmpl,Royal Enfield Bullet 350,20.4 PS,Rs.1.75 - 2.18 Lakh*(View On Road Price),4.4/5,bike
+Royal Enfield,349 cc,41.88 kmpl,Royal Enfield Meteor 350,20.4 PS,Rs.2.08 - 2.33 Lakh*(View On Road Price),4.3/5,bike
+Royal Enfield,452 cc,29.5 kmpl,Royal Enfield Guerrilla 450,40.02 PS,Rs.2.39 - 2.54 Lakh*(View On Road Price),4.5/5,bike
+Royal Enfield,452 cc,30 kmpl,Royal Enfield Himalayan 450,40.02 PS,Rs.2.85 - 2.98 Lakh*(View On Road Price),4.4/5,bike
+Royal Enfield,647.95 cc,21.45 kmpl,Royal Enfield Classic 650,47.04 PS,Rs.3.37 - 3.50 Lakh*(View On Road Price),4.2/5,bike
+Royal Enfield,647.95 cc,25 kmpl,Royal Enfield Interceptor 650,47.4 PS,Rs.3.06 - 3.35 Lakh*(View On Road Price),4.3/5,bike
+Royal Enfield,648 cc,22 kmpl,Royal Enfield Bear 650,47.4 PS,Rs.3.43 - 3.63 Lakh*(View On Road Price),4.7/5,bike
+Royal Enfield,648 cc,22 kmpl,Royal Enfield Shotgun 650,47.65 PS,Rs.3.64 - 3.77 Lakh*(View On Road Price),4.3/5,bike
+Royal Enfield,648 cc,25 kmpl,Royal Enfield Super Meteor 650,47 PS,Rs.3.68 - 3.99 Lakh*(View On Road Price),4.3/5,bike
+Royal Enfield,349 cc,36.2 kmpl,Royal Enfield Goan Classic 350,20.48 PS,Rs.2.35 - 2.38 Lakh*(View On Road Price),4.5/5,bike
+Royal Enfield,443 cc,29.5 kmpl,Royal Enfield Scram 440,25.42 PS,Rs.2.08 - 2.15 Lakh*(View On Road Price),4.4/5,bike
+TVS,124.8 cc,71.94 kmpl,TVS Raider,11.38 PS,"Rs.87,010 - 1.02 Lakh*(View On Road Price)",4.4/5,bike
+TVS,160 cc,47 kmpl,TVS Apache RTR 160,16.04 PS,Rs.1.21 - 1.31 Lakh*(View On Road Price),4.5/5,bike
+TVS,159.7 cc,45 kmpl,TVS Apache RTR 160 4V,17.55 PS,Rs.1.25 - 1.40 Lakh*(View On Road Price),4.4/5,bike
+TVS,225.9 cc,42.95 kmpl,TVS Ronin,20.4 PS,Rs.1.36 - 1.73 Lakh*(View On Road Price),4.3/5,bike
+TVS,312.2 cc,34 kmpl,TVS Apache RR 310,38 PS,Rs.2.78 - 3 Lakh*(View On Road Price),4.5/5,bike
+TVS,109.7 cc,70 kmpl,TVS Sport,8.19 PS,"Rs.59,881 - 71,785*(View On Road Price)",4.3/5,bike
+TVS,312.12 cc,35 kmpl,TVS Apache RTR 310,35.6 PS,Rs.2.50 - 2.72 Lakh*(View On Road Price),4.5/5,bike
+TVS,197.75 cc,37 kmpl,TVS Apache RTR 200 4V,20.82 PS,Rs.1.49 Lakh*(View On Road Price),4.4/5,bike
+TVS,177.4 cc,45 kmpl,TVS Apache RTR 180,17.13 PS,Rs.1.35 Lakh*(View On Road Price),4.4/5,bike
+TVS,109.7 cc,73.68 kmpl,TVS Radeon,8.19 PS,"Rs.59,880 - 83,384*(View On Road Price)",4.4/5,bike
+TVS,109.7 cc,83.09 kmpl,TVS Star City Plus,8.19 PS,"Rs.76,791 - 79,791*(View On Road Price)",4.4/5,bike
+Yamaha,155 cc,56.87 kmpl,Yamaha MT 15 V2,18.4 PS,Rs.1.70 - 1.74 Lakh*(View On Road Price),4.5/5,bike
+Yamaha,155 cc,45 kmpl,Yamaha R15 V4,18.4 PS,Rs.1.84 - 2.12 Lakh*(View On Road Price),4.5/5,bike
+Yamaha,155 cc,45 kmpl,Yamaha Aerox 155,15 PS,Rs.1.50 - 1.53 Lakh*(View On Road Price),4.2/5,bike
+Yamaha,149 cc,60 kmpl,2025 Yamaha FZ-S Fi,12.4 PS,Rs.1.35 - 1.45 Lakh*(View On Road Price),4.5/5,bike
+Yamaha,149 cc,46 kmpl,Yamaha FZS-FI V4,12.4 PS,Rs.1.31 - 1.31 Lakh*(View On Road Price),4.3/5,bike
+Yamaha,155 cc,40 kmpl,Yamaha R15S,18.4 PS,Rs.1.67 Lakh*(View On Road Price),4.6/5,bike
+Yamaha,125 cc,71.33 kmpl,Yamaha RayZR 125 Fi Hybrid,8.2 PS,"Rs.86,430 - 99,970*(View On Road Price)",4.3/5,bike
+Yamaha,149 cc,49.3 kmpl,Yamaha FZ-FI V3,12.4 PS,Rs.1.18 Lakh*(View On Road Price),4.3/5,bike
+Yamaha,125 cc,68.75 kmpl,Yamaha Fascino 125 Fi Hybrid,8.2 PS,"Rs.80,430 - 96,650*(View On Road Price)",4.2/5,bike
+Yamaha,149 cc,55.11 kmpl,Yamaha FZ X,12.4 PS,Rs.1.38 - 1.42 Lakh*(View On Road Price),4.2/5,bike
+Yamaha,321 cc,26.31 kmpl,Yamaha MT-03,42 PS,Rs.3.50 Lakh*(View On Road Price),4.5/5,bike
+Yamaha,149 cc,49.31 kmpl,Yamaha FZS-FI V3,12.4 PS,Rs.1.23 - 1.24 Lakh*(View On Road Price),4.2/5,bike
+Yamaha,321 cc,25 kmpl,Yamaha R3,42 PS,Rs.3.60 Lakh*(View On Road Price),4.4/5,bike
+Hero,97.2 cc,70 kmpl,Hero Splendor Plus,8.02 PS,"Rs.77,176 - 80,176*(View On Road Price)",4.5/5,bike
+Hero,124.7 cc,66 kmpl,Hero Xtreme 125R,11.55 PS,"Rs.96,425 - 1.02 Lakh*(View On Road Price)",4.5/5,bike
+Hero,97.2 cc,70 kmpl,Hero Splendor Plus XTEC,8.02 PS,"Rs.81,001 - 86,051*(View On Road Price)",4.6/5,bike
+Hero,97.2 cc,70 kmpl,Hero HF Deluxe,8.02 PS,"Rs.59,998 - 69,518*(View On Road Price)",4.6/5,bike
+Hero,249.03 cc,37 kmpl,Hero Xtreme 250R,30 PS,Rs.1.80 Lakh*(View On Road Price),4.4/5,bike
+Hero,163.2 cc,46 kmpl,Hero Xtreme 160R,15 PS,Rs.1.12 - 1.13 Lakh*(View On Road Price),4.2/5,bike
+Hero,199.6 cc,36 kmpl,Hero XPulse 200 4V,19.16 PS,Rs.1.52 - 1.68 Lakh*(View On Road Price),4.4/5,bike
+Hero,210 cc,40 Kmpl,Hero XPulse 210,24.67 PS,Rs.1.76 - 1.86 Lakh*(View On Road Price),4.7/5,bike
+Hero,124.7 cc,69 kmpl,Hero Super Splendor XTEC,10.84 PS,"Rs.86,128 - 92,028*(View On Road Price)",4.2/5,bike
+Hero,125 cc,63 kmpl,Hero Glamour,10.53 PS,"Rs.84,698 - 90,698*(View On Road Price)",4.2/5,bike
+Hero,124.6 cc,59 kmpl,Hero Destini 125,9.12 PS,"Rs.80,450 - 91,700*(View On Road Price)",4.4/5,bike
+Hero,124.7 cc,63 kmpl,Hero Glamour XTEC,10.84 PS,"Rs.89,998 - 94,598*(View On Road Price)",4.0/5,bike
+Hero,124.7 cc,60 kmpl,Hero Super Splendor,10.87 PS,"Rs.80,848 - 84,748*(View On Road Price)",4.7/5,bike
+Hero,210 cc,41.55 kmpl,Hero Karizma XMR,25.5 PS,Rs.1.81 - 2.02 Lakh*(View On Road Price),4.3/5,bike
+Hero,110.9 cc,53.4 kmpl,Hero Xoom 110,8.15 PS,"Rs.72,284 - 84,017*(View On Road Price)",4.2/5,bike
+Hero,124.6 cc,52.8 kmpl,Hero Xoom 125,9.92 PS,"Rs.86,900 - 92,900*(View On Road Price)",4.5/5,bike
+Hero,440 cc,32 kmpl,Hero Mavrick 440,27.36 PS,Rs.2 - 2.25 Lakh*(View On Road Price),4.4/5,bike
+Hero,110.9 cc,50 kmpl,Hero Pleasure Plus,8.15 PS,"Rs.71,763 - 83,813*(View On Road Price)",4.4/5,bike
+Hero,97.2 cc,70 kmpl,Hero Passion Plus,8.02 PS,"Rs.79,901 - 81,651*(View On Road Price)",4.2/5,bike
+Hero,163.2 cc,48 kmpl,Hero Xtreme 160R 4V,16.9 PS,Rs.1.39 - 1.41 Lakh*(View On Road Price),4.3/5,bike
+Hero,156 cc,40 Kmpl,Hero Xoom 160,14.81 PS,Rs.1.49 Lakh*(View On Road Price),4.5/5,bike
+Hero,97.2 cc,70 kmpl,Hero HF 100,8.02 PS,"Rs.59,018 - 60,118*(View On Road Price)",4.4/5,bike
+Hero,124.6 cc,56 kmpl,Hero Destini Prime,9.09 PS,"Rs.72,799 - 74,199*(View On Road Price)",4.2/5,bike
+Bajaj,199.5 cc,40.36 kmpl,Bajaj Pulsar NS200,24.5 PS,Rs.1.60 Lakh*(View On Road Price),4.5/5,bike
+Bajaj,199.5 cc,35 kmpl,Bajaj Pulsar RS200,24.5 PS,Rs.1.84 Lakh*(View On Road Price),4.4/5,bike
+Bajaj,,,Bajaj Chetak 3501,,Rs.1.35 - 1.40 Lakh*(View On Road Price),4.5/5,bike
+Bajaj,160.3 cc,40.36 kmpl,Bajaj Pulsar NS160,17.2 PS,Rs.1.49 Lakh*(View On Road Price),4.4/5,bike
+Bajaj,149.5 cc,47.5 kmpl,Bajaj Pulsar 150,14 PS,Rs.1.13 - 1.20 Lakh*(View On Road Price),4.4/5,bike
+Bajaj,164.82 cc,59.11 kmpl,Bajaj Pulsar N160,16 PS,Rs.1.22 - 1.43 Lakh*(View On Road Price),4.4/5,bike
+Bajaj,373.27 cc,34 kmpl,Bajaj Pulsar NS400Z,40 PS,Rs.1.86 Lakh*(View On Road Price),4.5/5,bike
+Bajaj,124.4 cc,51.46 kmpl,Bajaj Pulsar 125,11.8 PS,"Rs.85,549 - 93,613*(View On Road Price)",4.4/5,bike
+Bajaj,124.45 cc,64.75 kmpl,Bajaj Pulsar NS 125,12 PS,"Rs.99,994 - 1.07 Lakh*(View On Road Price)",4.4/5,bike
+Bajaj,124.58 cc,65 kmpl,Bajaj Freedom 125,9.5 PS,"Rs.90,272 - 1.10 Lakh*(View On Road Price)",4.7/5,bike
+Bajaj,373.3 cc,27 kmpl,Bajaj Dominar 400,40 PS,Rs.2.33 Lakh*(View On Road Price),4.4/5,bike
+Bajaj,149.68 cc,48 kmpl,Bajaj Pulsar N150,14.5 PS,Rs.1.25 Lakh*(View On Road Price),4.4/5,bike
+Bajaj,220 cc,40 kmpl,Bajaj Pulsar 220 F,20.4 PS,Rs.1.42 Lakh*(View On Road Price),4.6/5,bike
+Bajaj,249.07 cc,39 kmpl,Bajaj Pulsar N250,24.5 PS,Rs.1.53 Lakh*(View On Road Price),4.2/5,bike
+Bajaj,115.45 cc,70 kmpl,Bajaj Platina 110,8.6 PS,"Rs.71,558 - 74,214*(View On Road Price)",4.2/5,bike
+Bajaj,124.58 cc,58 kmpl,Bajaj Pulsar N125,12 PS,"Rs.93,158 - 98,355*(View On Road Price)",4.4/5,bike
+Bajaj,102 cc,70 kmpl,Bajaj Platina 100,7.9 PS,"Rs.68,890*(View On Road Price)",4.3/5,bike
+Bajaj,248.77 cc,35.03 kmpl,Bajaj Dominar 250,27 PS,Rs.1.86 Lakh*(View On Road Price),4.1/5,bike
+Bajaj,115.45 cc,70 kmpl,Bajaj CT 110X,8.6 PS,"Rs.70,381*(View On Road Price)",4.2/5,bike
+Bajaj,160 cc,47.2 kmpl,Bajaj Avenger Street 160,15 PS,Rs.1.20 Lakh*(View On Road Price),4.1/5,bike
+Bajaj,,4.2 kW,Bajaj Chetak 2903,,Rs.1.02 - 1.06 Lakh*(View On Road Price),4.5/5,bike
+Bajaj,,3.25 Hr,Bajaj Chetak 3503,,Rs.1.10 Lakh*(View On Road Price),4.5/5,bike
+Bajaj,,,Bajaj Chetak 3502,,Rs.1.23 - 1.28 Lakh*(View On Road Price),5.0/5,bike
+Bajaj,220 cc,40 kmpl,Bajaj Avenger Cruise 220,19.03 PS,Rs.1.47 Lakh*(View On Road Price),4.2/5,bike
+Bajaj,220 cc,40 kmpl,Bajaj Avenger 220 Street,19.03 PS,Rs.1.43 Lakh*(View On Road Price),4.2/5,bike
+KTM,199.5 cc,35 kmpl,KTM 200 Duke,25 PS,Rs.2.07 Lakh*(View On Road Price),4.5/5,bike
+KTM,398.63 cc,28.9 kmpl,KTM Duke 390,46 PS,Rs.2.97 Lakh*(View On Road Price),4.4/5,bike
+KTM,249.07 cc,30.08 kmpl,KTM 250 Duke,31 PS,Rs.2.30 Lakh*(View On Road Price),4.4/5,bike
+KTM,373.27 cc,25.89 kmpl,KTM RC 390,43.5 PS,Rs.3.23 Lakh*(View On Road Price),4.1/5,bike
+KTM,398.63 cc,30 kmpl,KTM 390 Adventure,46 PS,Rs.3.68 Lakh*(View On Road Price),4.5/5,bike
+KTM,1350 cc,16.94 kmpl,KTM 1390 Super Duke R,190.34 PS,Rs.22.96 Lakh*(View On Road Price),3.5/5,bike
+KTM,249.07 cc,38.12 kmpl,KTM 250 Adventure,31 PS,Rs.2.60 Lakh*(View On Road Price),4.7/5,bike
+KTM,199.5 cc,35 kmpl,KTM RC 200,25 PS,Rs.2.23 Lakh*(View On Road Price),4.1/5,bike
+KTM,399 cc,29.4 kmpl,KTM 390 Enduro R,46 PS,Rs.3.39 Lakh*(View On Road Price),4.3/5,bike
+KTM,398.63 cc,30 kmpl,KTM 390 Adventure X,46 PS,Rs.2.91 Lakh*(View On Road Price),5.0/5,bike
+KTM,889 cc,21.09 kmpl,KTM 890 Duke,121 PS,Rs.14.50 Lakh*(View On Road Price),4.2/5,bike
+KTM,62.96 PS,449.9 cc,KTM 450 SX-F,,Rs.10.25 Lakh*(View On Road Price),4.2/5,bike
+KTM,16.4 PS,84.9 cc,KTM 85 SX,14 Nm @ 8500,Rs.6.69 Lakh*(View On Road Price),4.0/5,bike
+KTM,5.4 PS,49.9 cc,KTM 50 SX,5.2 Nm @ 7500 rpm,Rs.4.75 Lakh*(View On Road Price),4.4/5,bike
+KTM,1301 cc,17.54 kmpl,KTM 1290 Super Adventure S,160.43 PS,Rs.22.74 Lakh*(View On Road Price),4.9/5,bike
+KTM,46.8 PS,249.9 cc,KTM 250 SX-F,26.5 Nm @ 9500 rpm,Rs.9.58 Lakh*(View On Road Price),4.2/5,bike
+KTM,11.35 PS,64.9 cc,KTM 65 SX,,Rs.5.47 Lakh*(View On Road Price),3.8/5,bike
+KTM,45 PS,349.7 cc,KTM 350 EXC-F,,Rs.12.96 Lakh*(View On Road Price),5.0/5,bike
+Kawasaki,998 cc,12 kmpl,Kawasaki Ninja ZX-10R,203 PS,Rs.18.50 Lakh*(View On Road Price),4.5/5,bike
+Kawasaki,948 cc,17 kmpl,Kawasaki Z900,125 PS,Rs.9.38 Lakh*(View On Road Price),4.4/5,bike
+Kawasaki,296 cc,30 kmpl,Kawasaki Ninja 300,39 PS,Rs.3.43 Lakh*(View On Road Price),4.3/5,bike
+Kawasaki,998 cc,15 kmpl,Kawasaki Ninja H2 SX,200 PS,Rs.32.91 - 32.95 Lakh*(View On Road Price),4.2/5,bike
+Kawasaki,636 cc,23.6 kmpl,Kawasaki Ninja ZX-6R,124 PS,Rs.11.53 Lakh*(View On Road Price),4.5/5,bike
+Kawasaki,399 cc,24.18 kmpl,Kawasaki Ninja ZX-4R,77 PS,Rs.8.79 - 9.42 Lakh*(View On Road Price),4.6/5,bike
+Kawasaki,649 cc,20.58 kmpl,Kawasaki Vulcan S,61 PS,Rs.7.10 Lakh*(View On Road Price),4.4/5,bike
+Kawasaki,177 cc,45 kmpl,Kawasaki W175,13 PS,Rs.1.22 - 1.35 Lakh*(View On Road Price),4.1/5,bike
+Kawasaki,649 cc,19.02 kmpl,Kawasaki Z650,68 PS,Rs.6.79 Lakh*(View On Road Price),4.2/5,bike
+Kawasaki,451 cc,26.31 kmpl,Kawasaki Ninja 500,45.4 PS,Rs.5.29 Lakh*(View On Road Price),4.5/5,bike
+Kawasaki,451 cc,30 kmpl,Kawasaki Eliminator,45 PS,Rs.5.76 Lakh*(View On Road Price),4.7/5,bike
+Kawasaki,649 cc,21 kmpl,Kawasaki Ninja 650,68 PS,Rs.7.27 Lakh*(View On Road Price),4.4/5,bike
+Kawasaki,233 cc,40 Kmpl,Kawasaki KLX230,18.1 PS,Rs.3.30 Lakh*(View On Road Price),4.4/5,bike
+Kawasaki,998 cc,12 kmpl,Kawasaki Z H2,200 PS,Rs.24.18 - 28.59 Lakh*(View On Road Price),4.5/5,bike
+Kawasaki,649 cc,20 kmpl,Kawasaki Versys 650,67 PS,Rs.7.77 Lakh*(View On Road Price),4.3/5,bike
+Kawasaki,649 cc,23 kmpl,Kawasaki Z650RS,68 PS,Rs.7.20 Lakh*(View On Road Price),4.2/5,bike
+Kawasaki,249 cc,30 kmpl,Kawasaki KX 250,,Rs.7.99 Lakh*(View On Road Price),4.5/5,bike
+Kawasaki,112 cc,20 Kmpl,Kawasaki KLX110R L,7.29 PS,Rs.3.12 Lakh*(View On Road Price),4.2/5,bike
+Kawasaki,449 cc,23 kmpl,Kawasaki KLX 450R,56.4 PS,Rs.8.99 Lakh*(View On Road Price),4.1/5,bike
+Kawasaki,449 cc,25 kmpl,Kawasaki KX 450,3.44 PS,Rs.9.28 Lakh*(View On Road Price),4.2/5,bike
+Kawasaki,233 cc,14 kmpl,Kawasaki KLX230RS,20 PS,Rs.5.21 Lakh*(View On Road Price),4.3/5,bike
+Kawasaki,64 cc,30 kmpl,Kawasaki KX65,63 PS,Rs.3.12 Lakh*(View On Road Price),4.6/5,bike
+Kawasaki,1099 cc,17.85 kmpl,Kawasaki Ninja 1100SX,136 PS,Rs.13.49 Lakh*(View On Road Price),5.0/5,bike
+Kawasaki,84 cc,25 kmpl,Kawasaki KX 85,,Rs.4.20 Lakh*(View On Road Price),4.6/5,bike
+Kawasaki,112 cc,24.18 kmpl,Kawasaki KX112,,Rs.4.88 Lakh*(View On Road Price),4.3/5,bike
+Kawasaki,292 cc,45 kmpl,Kawasaki KLX 300R,29 PS,Rs.5.60 Lakh*(View On Road Price),4.6/5,bike
+Kawasaki,948 cc,15 kmpl,Kawasaki Z900RS,111 PS,Rs.17.47 Lakh*(View On Road Price),4.2/5,bike
+Kawasaki,144 cc,60 kmpl,Kawasaki KLX 140R F,11 PS,Rs.4.11 Lakh*(View On Road Price),4.2/5,bike
+BMW,312.12 cc,30.3 kmpl,BMW G 310 RR,34 PS,Rs.3.05 Lakh*(View On Road Price),4.4/5,bike
+BMW,999 cc,15.62 kmpl,BMW S 1000 RR,206.66 PS,Rs.20.75 - 25.60 Lakh*(View On Road Price),4.5/5,bike
+BMW,350 cc,28.57  kmpl,BMW C 400 GT,33.99 PS,Rs.11.50 Lakh*(View On Road Price),4.4/5,bike
+BMW,999 cc,15.38 kmpl,BMW M 1000 RR,212.10 PS,Rs.49 - 55 Lakh*(View On Road Price),4.5/5,bike
+BMW,1300 cc,20.83 kmpl,BMW R 1300 GS,145.48 PS,Rs.21.20 Lakh*(View On Road Price),4.5/5,bike
+BMW,3.3 Hr,11 kW,BMW CE 02,,Rs.4.50 Lakh*(View On Road Price),3.3/5,bike
+BMW,999 cc,16.12 kmpl,BMW S 1000 XR,172.35PS,Rs.22.75 Lakh*(View On Road Price),4.5/5,bike
+BMW,999 cc,16.12 kmpl,BMW S 1000 R,165 PS,Rs.19 - 23.30 Lakh*(View On Road Price),4.2/5,bike
+BMW,1649 cc,16.94 kmpl,BMW K 1600 Bagger,160.43 PS,Rs.33.33 Lakh*(View On Road Price),4.2/5,bike
+BMW,1649 cc,16.94 kmpl,BMW K 1600 GTL,160.4 PS,Rs.33.33 Lakh*(View On Road Price),4.3/5,bike
+BMW,1254 cc,21 kmpl,BMW R 1250 RT,135.9 PS,Rs.24.95 Lakh*(View On Road Price),4.4/5,bike
+BMW,1802 cc,17.24 kmpl,BMW R 18 Transcontinental,91.09 PS,Rs.32.50 Lakh*(View On Road Price),4.0/5,bike
+BMW,1170 cc,19.60 kmpl,BMW R 12 nineT,110.51 PS,Rs.21.10 Lakh*(View On Road Price),4.7/5,bike
+BMW,1649 cc,16.9 kmpl,BMW K 1600 Grand America,160.4 PS,Rs.33.33 Lakh*(View On Road Price),4.0/5,bike
+BMW,1170 cc,19.60 kmpl,BMW R 12,96.31 PS,Rs.20.10 Lakh*(View On Road Price),4.0/5,bike
+BMW,895 cc,23.8 kmpl,BMW F 900 XR,104.6 PS,Rs.12.55 Lakh*(View On Road Price),4.5/5,bike
+BMW,999 cc,15.38 kmpl,BMW M 1000 XR,203.78 PS,Rs.45.50 Lakh*(View On Road Price),4.5/5,bike
+BMW,4.2 Hr,31 kW,BMW CE 04,,Rs.15.25 Lakh*(View On Road Price),4.6/5,bike
+BMW,895 cc,22 kmpl,BMW F 900 GS,104.69 PS,Rs.13.75 - 14.75 Lakh*(View On Road Price),4.7/5,bike
+Suzuki,124 cc,45 kmpl,Suzuki Access 125,8.42 PS,"Rs.83,800 - 1.02 Lakh*(View On Road Price)",4.4/5,bike
+Suzuki,1340 cc,17 kmpl,Suzuki Hayabusa,190 PS,Rs.16.90 - 17.70 Lakh*(View On Road Price),4.3/5,bike
+Suzuki,124 cc,48 kmpl,Suzuki Burgman Street,8.7 PS,"Rs.96,399 - 1.18 Lakh*(View On Road Price)",4.5/5,bike
+Suzuki,155 cc,45 kmpl,Suzuki Gixxer SF,13.6 PS,Rs.1.47 - 1.48 Lakh*(View On Road Price),4.7/5,bike
+Suzuki,155 cc,38 kmpl,Suzuki Gixxer,13.6 PS,Rs.1.38 - 1.38 Lakh*(View On Road Price),4.1/5,bike
+Suzuki,124.3 cc,55 kmpl,Suzuki Avenis,8.7 PS,"Rs.93,200 - 94,000*(View On Road Price)",4.2/5,bike
+Suzuki,249 cc,32 kmpl,Suzuki V-Strom SX,26.5 PS,Rs.2.16 Lakh*(View On Road Price),4.6/5,bike
+Suzuki,250 cc,38 kmpl,Suzuki Gixxer SF 250,26.5 PS,Rs.2.07 - 2.08 Lakh*(View On Road Price),4.5/5,bike
+Suzuki,776 cc,25 kmpl,Suzuki GSX-8R,82.93 PS,Rs.9.25 Lakh*(View On Road Price),4.4/5,bike
+Suzuki,999 cc,23 kmpl,Suzuki Katana,152.27 PS,Rs.13.61 Lakh*(View On Road Price),4.1/5,bike
+Suzuki,,249 cc,Suzuki Gixxer SF 250 Flex Fuel,,Rs.2.17 Lakh*(View On Road Price),4.5/5,bike
+Suzuki,776 cc,22.7 kmpl,Suzuki V-Strom 800 DE,84.3 PS,Rs.10.30 Lakh*(View On Road Price),4.0/5,bike
+Jawa,334 cc,30.56 kmpl,Jawa 42 Bobber,29.9 PS,Rs.2.10 - 2.30 Lakh*(View On Road Price),4.4/5,bike
+Jawa,334 cc,32 kmpl,Jawa 42 FJ,29.1 PS,Rs.2.10 - 2.20 Lakh*(View On Road Price),4.5/5,bike
+Jawa,294.72 cc,33 kmpl,Jawa 42,27.32 PS,Rs.1.73 - 1.98 Lakh*(View On Road Price),4.3/5,bike
+Jawa,334 cc,34.05 kmpl,Jawa Perak,22.01 PS,Rs.2.40 Lakh*(View On Road Price),4.5/5,bike
+Jawa,334 cc,30 kmpl,Jawa 350,22.57 PS,Rs.1.99 - 2.29 Lakh*(View On Road Price),4.3/5,bike
+Triumph,398.15 cc,30 kmpl,Triumph Speed 400,40 PS,Rs.2.42 Lakh*(View On Road Price),4.3/5,bike
+Triumph,398.15 cc,28.3 kmpl,Triumph Scrambler 400 X,40 PS,Rs.2.66 Lakh*(View On Road Price),4.2/5,bike
+Triumph,2458 cc,15.15 kmpl,Triumph Rocket 3,182 PS,Rs.21.99 - 22.59 Lakh*(View On Road Price),4.5/5,bike
+Triumph,765 cc,19.2 kmpl,Triumph Street Triple 765,130 PS,Rs.10.17 - 12.07 Lakh*(View On Road Price),4.3/5,bike
+Triumph,398.15 cc,30 kmpl,Triumph Speed T4,31 PS,Rs.1.99 Lakh*(View On Road Price),4.7/5,bike
+Triumph,660 cc,20.4 kmpl,Triumph Daytona 660,95 PS,Rs.9.72 Lakh*(View On Road Price),4.3/5,bike
+Triumph,660 cc,17.47 kmpl,Triumph Trident 660,81 PS,Rs.8.12 Lakh*(View On Road Price),4.5/5,bike
+Triumph,1200 cc,22.22 Kmpl,Triumph Bonneville Bobber,78 PS,Rs.12.05 - 12.65 Lakh*(View On Road Price),4.8/5,bike
+Triumph,900 cc,25 kmpl,Triumph Speed Twin 900,65 PS,Rs.8.89 Lakh*(View On Road Price),4.0/5,bike
+Triumph,1160 cc,17.9 kmpl,Triumph Speed Triple 1200,180 PS,Rs.17.95 Lakh*(View On Road Price),4.0/5,bike
+Triumph,900 cc,24.39 kmpl,Triumph Bonneville T100,65 PS,Rs.9.69 - 10.29 Lakh*(View On Road Price),4.4/5,bike
+Triumph,900 cc,23.2 kmpl,Triumph Scrambler 900,65 PS,Rs.9.59 - 10.19 Lakh*(View On Road Price),4.2/5,bike
+Triumph,1200 cc,21.27 kmpl,Triumph Bonneville T120,80 PS,Rs.11.09 - 11.69 Lakh*(View On Road Price),4.2/5,bike
+Triumph,1200 cc,22.22 Kmpl,Triumph Bonneville Speedmaster,78 PS,Rs.12.05 - 12.85 Lakh*(View On Road Price),3.5/5,bike
+Triumph,1160 cc,19.6 kmpl,Triumph Tiger 1200,150 PS,Rs.19.39 - 21.89 Lakh*(View On Road Price),4.5/5,bike
+Triumph,888 cc,21.27 kmpl,Triumph Tiger 900,108 PS,Rs.13.95 - 15.95 Lakh*(View On Road Price),4.4/5,bike
+Triumph,660 cc,22.22 Kmpl,Triumph Tiger Sport 660,81 PS,Rs.9.45 Lakh*(View On Road Price),4.2/5,bike
+Harley Davidson,440 cc,35 kmpl,Harley Davidson X440,27.37 PS,Rs.2.40 - 2.80 Lakh*(View On Road Price),4.3/5,bike
+Harley Davidson,1252 cc,19.6 kmpl,Harley Davidson Sportster S,122.3 PS,Rs.16.49 Lakh*(View On Road Price),4.4/5,bike
+Harley Davidson,1868 cc,18.1 kmpl,Harley Davidson Fat Boy 114,95.1 PS,Rs.25.69 Lakh*(View On Road Price),4.5/5,bike
+Harley Davidson,975 cc,18.1 kmpl,Harley Davidson Nightster,89.7 PS,Rs.13.39 - 14.09 Lakh*(View On Road Price),4.3/5,bike
+Harley Davidson,1868 cc,18.1 kmpl,Harley Davidson Fat Bob 114,93.8 PS,Rs.21.49 Lakh*(View On Road Price),4.7/5,bike
+Harley Davidson,1923 cc,17.85 kmpl,Harley-Davidson Breakout 117,103.33 PS,Rs.30.99 Lakh*(View On Road Price),4.4/5,bike
+Harley Davidson,1252 cc,18.33 kmpl,Harley Davidson Pan America 1250,152 PS,Rs.24.64 Lakh*(View On Road Price),4.8/5,bike
+Harley Davidson,1868 cc,16.3 kmpl,Harley Davidson Road Glide,93.8 PS,Rs.41.79 Lakh*(View On Road Price),4.6/5,bike
+Harley Davidson,1868 cc,18.1 kmpl,Harley Davidson Heritage Classic,95.1 PS,Rs.27.19 Lakh*(View On Road Price),4.0/5,bike
+Harley Davidson,1868 cc,16.3 kmpl,Harley Davidson Street Glide,93.8 PS,Rs.38.79 Lakh*(View On Road Price),4.2/5,bike
+Ather,5.45 Hr,6.4 kW,Ather 450X,,Rs.1.49 - 1.79 Lakh*(View On Road Price),4.7/5,bike
+Ather,6.1 Hr,4.3 kW,Ather Rizta,,Rs.1.10 - 1.49 Lakh*(View On Road Price),4.5/5,bike
+Ather,7.45 Hr,5.4 kW,Ather 450S,,Rs.1.22 - 1.36 Lakh*(View On Road Price),4.5/5,bike
+Ather,5.45 Hr,7 kW,Ather 450 Apex,,Rs.1.90 Lakh*(View On Road Price),4.8/5,bike
+Aprilia,457 cc,30 kmpl,Aprilia RS 457,47.58 PS,Rs.4.23 Lakh*(View On Road Price),4.4/5,bike
+Aprilia,457 cc,25.5 kmpl,Aprilia Tuono 457,47.58 PS,Rs.3.95 Lakh*(View On Road Price),4.4/5,bike
+Aprilia,160.03 cc,35 kmpl,Aprilia SR 160,11.27 PS,Rs.1.32 - 1.41 Lakh*(View On Road Price),4.1/5,bike
+Aprilia,1099 cc,15.4 kmpl,Aprilia RSV4,216.85 PS,Rs.31.26 Lakh*(View On Road Price),4.2/5,bike
+Aprilia,659 cc,20.4 kmpl,Aprilia RS 660,100 PS,Rs.17.74 Lakh*(View On Road Price),4.3/5,bike
+Aprilia,124.45 cc,40 kmpl,Aprilia SR 125,10.11 PS,Rs.1.23 Lakh*(View On Road Price),4.3/5,bike
+Aprilia,160.03 cc,35 kmpl,Aprilia SXR 160,11.09 PS,Rs.1.44 Lakh*(View On Road Price),4.0/5,bike
+Aprilia,125 cc,40 kmpl,Aprilia SXR 125,9.61 PS,Rs.1.33 Lakh*(View On Road Price),4.0/5,bike
+Aprilia,124.49 cc,38.5 kmpl,Aprilia SR Storm,9.92 PS,Rs.1.15 Lakh*(View On Road Price),4.5/5,bike
+Ducati,1103 cc,15.38 kmpl,Ducati Panigale V4,218.99 PS,Rs.29.99 - 36.50 Lakh*(View On Road Price),4.7/5,bike
+Ducati,937 cc,18.9 kmpl,Ducati Monster,112.54 PS,Rs.12.95 - 15.95 Lakh*(View On Road Price),4.5/5,bike
+Ducati,1103 cc,13.2 kmpl,Ducati Streetfighter V4,208 PS,Rs.24.62 - 28 Lakh*(View On Road Price),4.3/5,bike
+Ducati,1158 cc,18.2 kmpl,Ducati Diavel V4,170.33 PS,Rs.27.21 Lakh*(View On Road Price),4.7/5,bike
+Ducati,803 cc,19.2 kmpl,Ducati Scrambler 800,74.01 PS,Rs.9.97 - 12.60 Lakh*(View On Road Price),4.5/5,bike
+Ducati,937 cc,17 kmpl,Ducati SuperSport 950,110.1 PS,Rs.16.06 - 19.11 Lakh*(View On Road Price),4.3/5,bike
+Ducati,1103 cc,13.6 kmpl,Ducati Multistrada V4,182.4 PS,Rs.21.48 - 40.67 Lakh*(View On Road Price),3.0/5,bike
+Ducati,937 cc,19.6 kmpl,Ducati Hypermotard 950,114.2 PS,Rs.16 - 19.05 Lakh*(View On Road Price),4.5/5,bike
+Ducati,955 cc,16.7 kmpl,Ducati Streetfighter V2,155.12 PS,Rs.18.50 Lakh*(View On Road Price),4.1/5,bike
+Ducati,1079 cc,20 kmpl,Ducati Scrambler 1100,85.65 PS,Rs.13.40 - 15.99 Lakh*(View On Road Price),4.7/5,bike
+Ducati,955 cc,16.6 kmpl,Ducati Panigale V2,157.15 PS,Rs.20.98 - 24.13 Lakh*(View On Road Price),4.5/5,bike
+Ducati,937 cc,16.9 kmpl,Ducati Multistrada V2,114.5 PS,Rs.16.35 - 18.99 Lakh*(View On Road Price),4.4/5,bike
+Ducati,937 cc,17.8 kmpl,Ducati DesertX,111.52 PS,Rs.18.33 - 23.71 Lakh*(View On Road Price),4.4/5,bike
+Ola Electric,6 Hr,5.5 kW,Ola S1 Pro,,Rs.1.16 - 1.36 Lakh*(View On Road Price),4.2/5,bike
+Ola Electric,6 Hr,5.5 kW,Ola S1 X,,"Rs.65,499 - 92,999*(View On Road Price)",4.6/5,bike
+Ola Electric,7.9 Hr,13 kW,Ola Roadster,,Rs.1.05 - 1.40 Lakh*(View On Road Price),4.5/5,bike
+Ola Electric,,3 kW,Ola S1 Z,,"Rs.59,999 - 64,999*(View On Road Price)",4.6/5,bike
+Ola Electric,6 Hr,5.5 kW,Ola S1 X Plus,,Rs.1.10 Lakh*(View On Road Price),4.3/5,bike
+Ola Electric,5 Hr,2.7 kW,Ola S1 Air,,"Rs.89,999*(View On Road Price)",4.2/5,bike
+Ola Electric,,7 kW,Ola Roadster X,,"Rs.84,999 - 1.05 Lakh*(View On Road Price)",4.7/5,bike
+Ola Electric,,1.5 kW,Ola Gig,,"Rs.39,999 - 49,999*(View On Road Price)",3.9/5,bike
+Ola Electric,,11 kW,Ola Roadster X+,,Rs.1.15 - 1.85 Lakh*(View On Road Price),4.7/5,bike
+Ola Electric,7.5 Hr,52 kW,Ola Roadster Pro,,Rs.2 - 2.50 Lakh*(View On Road Price),4.8/5,bike
+Ola Electric,8.4 Hr,5.5 kW,Ola S1 Pro Plus,,Rs.1.48 - 1.88 Lakh*(View On Road Price),4.8/5,bike
+Keeway,125 cc,50 kmpl,Keeway SR125,9.83 PS,Rs.1.20 Lakh*(View On Road Price),4.3/5,bike
+Keeway,298 cc,37.03 kmpl,Keeway V302C,29.9 PS,Rs.4.29 Lakh*(View On Road Price),3.9/5,bike
+Keeway,223 cc,40 kmpl,Keeway SR 250,17 PS,Rs.1.49 Lakh*(View On Road Price),4.2/5,bike
+Keeway,292.4 cc,40 kmpl,Keeway K300 SF,27.88 PS,Rs.1.69 Lakh*(View On Road Price),4.2/5,bike
+Keeway,249 cc,32 kmpl,Keeway K-Light 250V,18.95 PS,Rs.3.20 Lakh*(View On Road Price),4.0/5,bike
+Keeway,292.4 cc,32.30 kmpl,Keeway K300 R,27.88 PS,Rs.2.65 Lakh*(View On Road Price),4.1/5,bike
+Keeway,278.2 cc,21.56 kmpl,Keeway Vieste 300,18.95 PS,Rs.3.25 Lakh*(View On Road Price),3.9/5,bike
+Keeway,278.2 cc,27.73 kmpl,Keeway Sixties 300i,18.95 PS,Rs.3.30 Lakh*(View On Road Price),4.1/5,bike
+Revolt,,4.1 kW,Revolt RV400,,Rs.1.24 Lakh*(View On Road Price),4.5/5,bike
+Revolt,,2.8 kW,Revolt RV1,,"Rs.89,990 - 1.05 Lakh*(View On Road Price)",4.5/5,bike
+Revolt,,4.1 kW,Revolt RV BlazeX,,Rs.1.20 Lakh*(View On Road Price),4.7/5,bike
+Revolt,4.5 Hr,3 kW,Revolt RV400 BRZ,,Rs.1.14 Lakh*(View On Road Price),4.1/5,bike
+Oben Electric,,8 kW,Oben Rorr,,Rs.1.19 Lakh*(View On Road Price),4.4/5,bike
+Oben Electric,7 Hr,7.5 kW,Oben Rorr EZ,,"Rs.89,999 - 1.20 Lakh*(View On Road Price)",4.6/5,bike
+Hero Electric,4.5 Hr,1.2 kW,Hero Electric Optima,,"Rs.83,300 - 1.04 Lakh*(View On Road Price)",3.9/5,bike
+Hero Electric,4-5 Hr,250 W,Hero Electric Flash,,"Rs.59,640*(View On Road Price)",3.9/5,bike
+Hero Electric,4-5 Hr,250 W,Hero Electric Atria,,"Rs.77,690*(View On Road Price)",4.2/5,bike
+Hero Electric,5 Hr,1.8 kW,Hero Electric Photon,,Rs.1.11 Lakh*(View On Road Price),3.7/5,bike
+Vespa,124.45 cc,45 kmpl,Vespa ZX,9.77 PS,Rs.1.17 Lakh*(View On Road Price),4.1/5,bike
+Benelli,500 cc,30.16 kmpl,Benelli TRK 502,47.5 PS,Rs.5.85 - 6.85 Lakh*(View On Road Price),4.2/5,bike
+Benelli,500 cc,26.52 kmpl,Benelli 502 C,47.5 PS,Rs.5.25 Lakh*(View On Road Price),4.3/5,bike
+Benelli,500 cc,23 kmpl,Benelli Leoncino 500,47.5 PS,Rs.4.99 Lakh*(View On Road Price),4.4/5,bike
+Indian,1133 cc,25 kmpl,Indian Scout Bobber,106.45 PS,Rs.17.17 - 17.37 Lakh*(View On Road Price),4.3/5,bike
+Indian,1768 cc,18 kmpl,Indian Challenger Dark Horse,122.5 PS,Rs.36.97 - 37.07 Lakh*(View On Road Price),4.3/5,bike
+Indian,1203 cc,18 kmpl,Indian FTR,124.7 PS,Rs.19.38 - 22.03 Lakh*(View On Road Price),4.0/5,bike
+Indian,1133 cc,25 kmpl,Indian Scout,127.8 PS,Rs.17.83 - 18.33 Lakh*(View On Road Price),4.2/5,bike
+Indian,1133 cc,25 kmpl,Indian Scout Rogue,95.1 PS,Rs.17.28 - 17.41 Lakh*(View On Road Price),5.0/5,bike
+Indian,1890 cc,20 kmpl,Indian Springfield,171 Nm @ 3000 rpm,Rs.32.73 - 33.05 Lakh*(View On Road Price),4.3/5,bike
+Indian,1811 cc,15 kmpl,Indian Roadmaster Elite,151 Nm @ 3000 rpm,Rs.71.82 Lakh*(View On Road Price),4.5/5,bike
+Indian,1890 cc,20 kmpl,Indian Chieftain Limited,171 Nm @ 3000 rpm,Rs.34.26 - 34.40 Lakh*(View On Road Price),5.0/5,bike
+Indian,1890 cc,20 kmpl,Indian Chief Dark Horse,122 PS,Rs.22.13 - 22.25 Lakh*(View On Road Price),4.5/5,bike
+Indian,1890 cc,14 kmpl,Indian Super Chief Limited,88 PS,Rs.24.33 - 24.35 Lakh*(View On Road Price),4.2/5,bike
+Indian,1890 cc,20 kmpl,Indian Chief Bobber Dark Horse,122 PS,Rs.22.82 - 22.86 Lakh*(View On Road Price),4.5/5,bike
+Indian,1890 cc,20 kmpl,Indian Roadmaster,74 PS,Rs.43.49 - 46.77 Lakh*(View On Road Price),4.2/5,bike
+Indian,1890 cc,20 kmpl,Indian Springfield Dark Horse,171 Nm @ 3000 rpm,Rs.29.56 - 30.29 Lakh*(View On Road Price),4.4/5,bike
+Indian,1890 cc,13.54 kmpl,Indian Chieftain Dark Horse,122 PS,Rs.32 - 33.87 Lakh*(View On Road Price),3.7/5,bike
+Indian,1768 cc,14 kmpl,Indian Pursuit Limited,122.36 PS,Rs.42.03 - 47.37 Lakh*(View On Road Price),4.0/5,bike
+Okinawa,2-3 Hr,1 kW,Okinawa PraisePro,,"Rs.84,443*(View On Road Price)",3.8/5,bike
+Okinawa,5-6 Hr,2.5 kW,Okinawa Dual 100,,Rs.1.19 Lakh*(View On Road Price),4.0/5,bike
+Okinawa,4-5 Hr,250 W,Okinawa Lite,,"Rs.69,093*(View On Road Price)",3.9/5,bike
+Okinawa,4-5 Hr,2.7 kW,Okinawa iPraise+,,Rs.1.23 Lakh*(View On Road Price),4.1/5,bike
+Okinawa,5-6 Hr,800 W,Okinawa Ridge,,"Rs.70,096 - 1.15 Lakh*(View On Road Price)",3.8/5,bike
+Okinawa,4-5 Hr,250 W,Okinawa R30,,"Rs.61,998*(View On Road Price)",4.1/5,bike
+Okinawa,5-6 Hr,3.8 kW,Okinawa Okhi90,,Rs.1.50 Lakh*(View On Road Price),4.3/5,bike
+Ultraviolette,,14.91 kW,Ultraviolette Tesseract,,Rs.1.20 Lakh*(View On Road Price),5.0/5,bike
+Ultraviolette,,30 kW,Ultraviolette F77,,Rs.2.99 - 3.99 Lakh*(View On Road Price),4.5/5,bike
+Ultraviolette,,30 kW,Ultraviolette F77 SuperStreet,,Rs.2.99 - 3.99 Lakh*(View On Road Price),4.8/5,bike
+Benling India,4 Hr,3.2 kW,Benling Aura,,Rs.1.22 Lakh*(View On Road Price),3.1/5,bike
+Benling India,4 Hr,250 W,Benling Falcon,,"Rs.69,540*(View On Road Price)",3.6/5,bike
+Benling India,4 Hr,250 W,Benling Kriti,,"Rs.64,151*(View On Road Price)",5.0/5,bike
+PURE EV,,1.2 kW,PURE EV Epluto 7G,,"Rs.77,999 - 92,999*(View On Road Price)",3.2/5,bike
+PURE EV,,2.2 kW,PURE EV Epluto 7G Max,,Rs.1.15 Lakh*(View On Road Price),3.4/5,bike
+PURE EV,6 Hr,4 kW,PURE EV eTryst 350,,Rs.1.30 Lakh*(View On Road Price),3.7/5,bike
+PURE EV,,1.2 kW,PURE EV ETrance Neo,,"Rs.73,999 - 96,999*(View On Road Price)",2.8/5,bike
+PURE EV,4-6 Hr,3 kW,PURE EV EcoDryft,,"Rs.99,999 - 1.10 Lakh*(View On Road Price)",3.5/5,bike
+Komaki,,,Komaki X One,,"Rs.35,999 - 59,999*(View On Road Price)",4.6/5,bike
+Komaki,4-5 Hr,5 kW,Komaki Ranger,,Rs.1.86 Lakh*(View On Road Price),4.4/5,bike
+Komaki,,4-5 Hr,Komaki XGT CAT 2.0,,"Rs.74,999 - 1.14 Lakh*(View On Road Price)",4.5/5,bike
+Komaki,,4-5 Hr,Komaki XGT KM,,"Rs.56,890 - 93,045*(View On Road Price)",4.1/5,bike
+Komaki,4-5 Hr,3 kW,Komaki Flora,,"Rs.61,000*(View On Road Price)",4.3/5,bike
+Komaki,,4-5 Hr,Komaki XGT X5,,Rs.1 Lakh*(View On Road Price),5.0/5,bike
+Komaki,,4-5 Hr,Komaki SE,,"Rs.59,999 - 1.18 Lakh*(View On Road Price)",4.6/5,bike
+Komaki,,3 kW,Komaki X3,,"Rs.52,999*(View On Road Price)",5.0/5,bike
+Komaki,,,Komaki XR1,,"Rs.29,999*(View On Road Price)",2.9/5,bike
+Komaki,,4-5 Hr,Komaki XGT X4,,Rs.1.02 - 1.24 Lakh*(View On Road Price),4.7/5,bike
+Komaki,,3 kW,Komaki LY,,"Rs.74,844 - 1.07 Lakh*(View On Road Price)",5.0/5,bike
+Komaki,,4-5 Hr,Komaki X2 Vogue,,"Rs.62,311 - 88,500*(View On Road Price)",5.0/5,bike
+Komaki,,4-5 Hr,Komaki XGT Classic,,Rs.1.09 Lakh*(View On Road Price),4.0/5,bike
+Komaki,,4-5 Hr,Komaki CAT 2.0 NXT,,"Rs.74,999 - 99,500*(View On Road Price)",3.7/5,bike
+Komaki,5 Hr,3 kW,Komaki Venice,,Rs.1.04 - 1.68 Lakh*(View On Road Price),4.4/5,bike
+Komaki,4-5 Hr,3 kW,Komaki DT 3000,,Rs.1.12 Lakh*(View On Road Price),4.8/5,bike
+Komaki,,4-5 Hr,Komaki XGT VP,,"Rs.59,999 - 65,999*(View On Road Price)",4.5/5,bike
+Komaki,4-5 Hr,5 kW,Komaki TN-95,,Rs.1.19 - 1.40 Lakh*(View On Road Price),4.7/5,bike
+Komaki,,4-5 Hr,Komaki MX3,,Rs.1.15 Lakh*(View On Road Price),4.5/5,bike
+EeVe,6-7 Hr,250 W,EeVe Wind,,"Rs.59,999*(View On Road Price)",4.0/5,bike
+EeVe,6-7 Hr,250 W,EeVe Ahava,,"Rs.62,499*(View On Road Price)",4.2/5,bike
+EeVe,4-5 Hr,1.2 kW,EeVe Soul,,Rs.1.20 Lakh*(View On Road Price),5.0/5,bike
+EeVe,3-4 Hr,250 W,EeVe Xeniaa,,"Rs.79,999 - 86,999*(View On Road Price)",4.3/5,bike
+Hero Lectro,4-5 Hr,250 W,Hero Lectro Muv-E,,"Rs.61,999*(View On Road Price)",4.5/5,bike
+Hero Lectro,7 Hr,250 W,Hero Lectro WINN,,"Rs.49,999*(View On Road Price)",4.2/5,bike
+Hero Lectro,5.5 Hr,250 W,Hero Lectro H7,,"Rs.33,499 - 40,999*(View On Road Price)",4.6/5,bike
+Hero Lectro,4 Hr,250 W,Hero Lectro H4,,"Rs.32,499 - 35,499*(View On Road Price)",5.0/5,bike
+Hero Lectro,2.5 Hr,250 W,Hero Lectro H5,,"Rs.26,999 - 31,999*(View On Road Price)",4.5/5,bike
+Hero Lectro,6 Hr,250 W,Hero Lectro F6i,,"Rs.60,999*(View On Road Price)",4.0/5,bike
+Hero Lectro,8 Hr,250 W,Hero Lectro WINN-X,,"Rs.49,999*(View On Road Price)",4.3/5,bike
+Hero Lectro,2.5 Hr,250 W,Hero Lectro H3,,"Rs.27,999 - 30,999*(View On Road Price)",3.8/5,bike
+BattRE Electric Mobility,,2.5 Hr,BattRE Electric LoEV,,"Rs.59,900 - 1.03 Lakh*(View On Road Price)",4.1/5,bike
+BattRE Electric Mobility,5.2 Hr,2.4 kW,BattRE Electric Storie,,"Rs.94,999 - 1.15 Lakh*(View On Road Price)",4.4/5,bike
+BattRE Electric Mobility,,2.5 Hr,BattRE Electric ONE,,"Rs.73,900 - 1.08 Lakh*(View On Road Price)",4.2/5,bike
+Joy e-bike,5-5.5 Hr,1 kW,Joy e-bike Gen Next Nanu,,"Rs.56,699 - 67,304*(View On Road Price)",3.0/5,bike
+Joy e-bike,9 Hr,5 kW,Joy e-bike Beast,,Rs.2.42 Lakh*(View On Road Price),4.5/5,bike
+Joy e-bike,5-5.5 Hr,1 kW,Joy e-bike Wolf,,"Rs.57,749 - 68,354*(View On Road Price)",4.3/5,bike
+Joy e-bike,3.5 Hr,250 W,Joy e-bike Glob,,"Rs.70,000*(View On Road Price)",4.3/5,bike
+Joy e-bike,4-5 Hr,1.5 kW,Joy e-bike Gen Next Nanu Plus,,"Rs.73,604*(View On Road Price)",4.4/5,bike
+Joy e-bike,5 Hr,1.5 kW,Joy e-bike Mihos,,Rs.1.13 Lakh*(View On Road Price),4.8/5,bike
+Joy e-bike,8 Hr,5 kW,Joy e-bike Hurricane,,Rs.2.33 Lakh*(View On Road Price),3.8/5,bike
+Joy e-bike,4-5 Hr,1.5 kW,Joy e-bike Wolf Plus,,"Rs.74,654*(View On Road Price)",4.7/5,bike
+Joy e-bike,9 Hr,5 kW,Joy e-bike Thunderbolt,,Rs.2.33 Lakh*(View On Road Price),4.5/5,bike
+BGauss,4.15-4.3 Hr,2.5 kW,Bgauss C12i,,Rs.1.05 - 1.35 Lakh*(View On Road Price),3.9/5,bike
+BGauss,6.5 Hr,3.5 kW,BGauss RUV 350,,Rs.1.15 - 1.40 Lakh*(View On Road Price),4.7/5,bike
+Ujaas Energy,6-7 Hr,250 W,Ujaas eGo LA,,"Rs.39,880*(View On Road Price)",4.5/5,bike
+Ujaas Energy,6-7 Hr,250 W,Ujaas eSpa LA,,"Rs.48,174*(View On Road Price)",4.9/5,bike
+Ujaas Energy,3-4 Hr,250 W,Ujaas eGo T3,,"Rs.59,724 - 70,224*(View On Road Price)",3.9/5,bike
+Ujaas Energy,3-4 Hr,250 W,Ujaas eSpa Li,,"Rs.54,880*(View On Road Price)",5.0/5,bike
+Ujaas Energy,3-4 Hr,250 W,Ujaas eGo Li,,"Rs.53,880*(View On Road Price)",4.7/5,bike
+ADMS,4-8 Hr,1.2 kW,ADMS Mantra,,"Rs.98,000*(View On Road Price)",4.2/5,bike
+ADMS,4-8 Hr,1 kW,ADMS GTR,,"Rs.79,800*(View On Road Price)",4.8/5,bike
+ADMS,,2.5 kW,ADMS EVA,,Rs.1.35 Lakh*(View On Road Price),4.6/5,bike
+ADMS,4-5 Hr,2 kW,ADMS Phantom,,Rs.1.33 Lakh*(View On Road Price),5.0/5,bike
+ADMS,3-4 Hr,250 W,ADMS Marvel,,"Rs.97,000*(View On Road Price)",4.7/5,bike
+ADMS,4-8 Hr,1.2 kW,ADMS DB,,Rs.1.33 Lakh*(View On Road Price),5.0/5,bike
+ADMS,4-8 Hr,250 W,ADMS TTX,,Rs.1.15 Lakh*(View On Road Price),4.8/5,bike
+AMO Electric,6 Hr,249 W,AMO Electric Jaunty-3W,,"Rs.81,669*(View On Road Price)",4.6/5,bike
+AMO Electric,6 Hr,249 W,AMO Electric Jaunty,,"Rs.62,964 - 90,064*(View On Road Price)",4.6/5,bike
+AMO Electric,6 Hr,249 W,AMO Electric Brisk,,"Rs.62,913*(View On Road Price)",4.0/5,bike
+AMO Electric,6 Hr,249 W,AMO Electric Inspirer,,"Rs.53,951 - 86,626*(View On Road Price)",4.5/5,bike
+AMO Electric,4 Hr,1.27 kW,AMO Electric Jaunty Plus,,Rs.1.08 Lakh*(View On Road Price),5.0/5,bike
+AMO Electric,6 Hr,249 W,AMO Electric Jaunty Pro,,"Rs.69,256*(View On Road Price)",4.3/5,bike
+Aeroride,,,Aeroride YB2000,,"Rs.97,100 - 1.30 Lakh*(View On Road Price)",3.7/5,bike
+Aftek Motors,4.5 Hr,3 kW,Aftek Elmo,,Rs.1.10 Lakh*(View On Road Price),1.0/5,bike
+Ampere Electric,5 Hr,2.1 kW,Ampere Magnus EX,,"Rs.84,900*(View On Road Price)",3.8/5,bike
+Ampere Electric,5-6 Hr,1.5 kW,Ampere Magnus Neo,,"Rs.79,999*(View On Road Price)",4.2/5,bike
+Ampere Electric,3.3 Hr,3.3 kW,Ampere Nexus,,Rs.1.15 - 1.25 Lakh*(View On Road Price),4.1/5,bike
+Ampere Electric,5.3 Hr,250 W,Ampere Reo,,"Rs.49,900 - 59,900*(View On Road Price)",4.3/5,bike
+Ampere Electric,5 Hr,3.4 kW,Ampere Primus,,Rs.1.20 Lakh*(View On Road Price),4.1/5,bike
+Ampere Electric,5 Hr,1.8 kW,Ampere Zeal EX,,"Rs.86,690*(View On Road Price)",4.1/5,bike
+Atumobile,3-4 Hr,250 W,Atumobile Atum Version 1.0,,"Rs.61,500*(View On Road Price)",3.7/5,bike
+Atumobile,4 Hr,3 kW,Atumobile AtumVader,,Rs.1.09 - 1.39 Lakh*(View On Road Price),4.5/5,bike
+BNC Motors,,3 kW,BNC Motors Challenger,,"Rs.99,900 - 1.45 Lakh*(View On Road Price)",4.5/5,bike
+BSA,652 cc,25 kmpl,BSA Gold Star,45.62 PS,Rs.3.10 - 3.45 Lakh*(View On Road Price),4.5/5,bike
+Bounce,3-4 Hr,2.2 kW,Bounce Infinity E.1,,"Rs.59,000 - 1.26 Lakh*(View On Road Price)",4.1/5,bike
+Brixton Motorcycles,1222 cc,21.7 kmpl,Brixton Cromwell 1200,83 PS,Rs.7.84 - 9.11 Lakh*(View On Road Price),3.8/5,bike
+Brixton Motorcycles,486 cc,25 kmpl,Brixton Crossfire 500,47.58 PS,Rs.4.74 - 5.19 Lakh*(View On Road Price),4.4/5,bike
+CFMoto,649 cc,20 kmpl,CFMoto 650MT,70.70 PS,Rs.5.29 Lakh*(View On Road Price),4.0/5,bike
+CFMoto,649.3 cc,20 kmpl,CFMoto 650GT,62.54 PS,Rs.5.59 Lakh*(View On Road Price),3.7/5,bike
+CFMoto,292.4 cc,33 kmpl,CFMoto 300NK,33.99 PS,Rs.2.29 Lakh*(View On Road Price),3.6/5,bike
+CFMoto,649.3 cc,20 kmpl,CFMoto 650NK,61.18 PS,Rs.4.29 Lakh*(View On Road Price),4.5/5,bike
+Crayon Motors,,250 W,Crayon Zeez,,"Rs.51,760 - 64,075*(View On Road Price)",4.4/5,bike
+DAO,,250 W,DAO Zor 405,,"Rs.89,184 - 1.19 Lakh*(View On Road Price)",4.0/5,bike
+DAO,,2.5 kW,DAO Model 703,,"Rs.99,999*(View On Road Price)",4.0/5,bike
+DAO,,250 W,DAO Vidyut 108,,"Rs.86,449*(View On Road Price)",4.5/5,bike
+Deltic,3-4 Hr,250 W,Deltic Drixx,,"Rs.64,990 - 91,990*(View On Road Price)",4.0/5,bike
+Deltic,3-4 Hr,250 W,Deltic Legion,,"Rs.69,490 - 95,990*(View On Road Price)",4.2/5,bike
+Deltic,5-6 Hr,2 kW,Deltic ZGS,,Rs.1.02 Lakh*(View On Road Price),4.1/5,bike
+Deltic,5-6 Hr,3 kW,Deltic Trento,,Rs.1.28 Lakh*(View On Road Price),4.1/5,bike
+E-Went,4-5 Hr,250 W,E-Went Rabbitor,,"Rs.60,100 - 83,000*(View On Road Price)",4.3/5,bike
+EMotorad,3-4 Hr,250 W,EMotorad X2,,"Rs.27,999*(View On Road Price)",4.4/5,bike
+EMotorad,3-4 Hr,250 W,EMotorad X3,,"Rs.34,999*(View On Road Price)",4.3/5,bike
+EMotorad,5-7 Hr,250 W,EMotorad Doodle,,"Rs.49,999 - 52,999*(View On Road Price)",3.8/5,bike
+EMotorad,3-4 Hr,250 W,EMotorad Neo,,"Rs.25,999*(View On Road Price)",3.7/5,bike
+EMotorad,3-4 Hr,250 W,EMotorad X1,,"Rs.24,999 - 27,999*(View On Road Price)",4.4/5,bike
+EMotorad,3-4 Hr,250 W,EMotorad Legend O7,,"Rs.29,999*(View On Road Price)",3.8/5,bike
+EMotorad,4-5 Hr,250 W,EMotorad T-Rex Air,,"Rs.34,999*(View On Road Price)",3.8/5,bike
+EMotorad,5-7 Hr,250 W,EMotorad EMX,,"Rs.54,999*(View On Road Price)",4.4/5,bike
+Elecson,,350 W,Elecson Folding,,"Rs.24,999 - 25,499*(View On Road Price)",4.8/5,bike
+Elecson,,250 W,Elecson Ladybird,,"Rs.27,499*(View On Road Price)",4.6/5,bike
+Elecson,,250 W,Elecson Eco,,"Rs.18,499*(View On Road Price)",4.7/5,bike
+Enigma,4-5 Hr,1.5 kW,Enigma Ambier N8,,"Rs.95,000 - 1.05 Lakh*(View On Road Price)",4.0/5,bike
+Essel Energy,6-7 Hr,250 W,Essel Energy GET 1,,"Rs.37,500 - 41,500*(View On Road Price)",4.0/5,bike
+Essel Energy,5-6 Hr,250 W,Essel Energy GET 1+,,"Rs.81,314 - 86,930*(View On Road Price)",3.8/5,bike
+Essel Energy,,250 W,Essel Energy Wind,,"Rs.54,600 - 73,650*(View On Road Price)",3.7/5,bike
+Fidato Evtech,,4-5 Hr,Fidato Evtech Easy Go,,"Rs.86,315*(View On Road Price)",2.9/5,bike
+Fidato Evtech,,3-4 Hr,Fidato Evtech Cutie,,"Rs.54,600*(View On Road Price)",4.4/5,bike
+Fidato Evtech,,4-5 Hr,Fidato Evtech Future 2020,,"Rs.70,300*(View On Road Price)",3.5/5,bike
+Flycon Motors,,3-4 Hr,Flycon Empire +,,"Rs.89,999 - 1.33 Lakh*(View On Road Price)",4.4/5,bike
+Flycon Motors,,3-4 Hr,Flycon Empire,,"Rs.79,900*(View On Road Price)",4.2/5,bike
+Flycon Motors,,6-7 Hr,Flycon Grove,,"Rs.74,629 - 80,957*(View On Road Price)",3.7/5,bike
+Fujiyama,,250 W,Fujiyama Spectra,,"Rs.51,528 - 77,119*(View On Road Price)",4.5/5,bike
+Fujiyama,5 Hr,3.7 kW,Fujiyama Ozone,,"Rs.99,918*(View On Road Price)",4.0/5,bike
+Fujiyama,,250 W,Fujiyama Spectra Pro,,"Rs.54,384 - 79,975*(View On Road Price)",2.8/5,bike
+GT Force,,4-5 Hr,GT One Plus Pro,,"Rs.76,999*(View On Road Price)",4.7/5,bike
+GT Force,,4-5 Hr,GT RYD Plus,,"Rs.68,999*(View On Road Price)",3.7/5,bike
+GT Force,,4-5 Hr,GT Drive Pro,,"Rs.85,999*(View On Road Price)",4.1/5,bike
+GT Force,,4-5 Hr,GT Texa,,Rs.1.20 Lakh*(View On Road Price),4.3/5,bike
+GT Force,,4-5 Hr,GT Vegas,,"Rs.57,999*(View On Road Price)",3.8/5,bike
+Gaura Electric,4-5 Hr,250 W,Gaura Warrior 5G,,"Rs.62,999 - 99,990*(View On Road Price)",4.7/5,bike
+GoBike,,4-5 Hr,GoBike E-Smart,,"Rs.71,780 - 1.04 Lakh*(View On Road Price)",3.2/5,bike
+GoBike,,4-5 Hr,GoBike KN1 Plus,,Rs.1.36 Lakh*(View On Road Price),3.8/5,bike
+GoBike,,,GoBike DMG,,Rs.2.37 - 3.05 Lakh*(View On Road Price),4.3/5,bike
+GoBike,,4-5 Hr,GoBike Ambition,,"Rs.73,817 - 1.08 Lakh*(View On Road Price)",4.1/5,bike
+GoBike,,4-5 Hr,GoBike Electro,,"Rs.76,109 - 1.10 Lakh*(View On Road Price)",4.3/5,bike
+GoBike,,,GoBike V6,,Rs.1.60 - 2.28 Lakh*(View On Road Price),5.0/5,bike
+GoBike,,,GoBike DMS,,Rs.1.63 - 2.31 Lakh*(View On Road Price),5.0/5,bike
+GoBike,,,GoBike A 1-4,,Rs.1.60 - 2.28 Lakh*(View On Road Price),4.5/5,bike
+GoBike,,4-5 Hr,GoBike XL,,Rs.1.52 Lakh*(View On Road Price),4.6/5,bike
+GoBike,,,GoBike JF,,Rs.1.63 - 2.31 Lakh*(View On Road Price),4.5/5,bike
+Hayasa,4-4.5 Hr,230 W,Hayasa Nirbhar,,"Rs.65,550*(View On Road Price)",4.3/5,bike
+Hayasa,,230 W,Hayasa Daksha,,"Rs.74,050*(View On Road Price)",4.2/5,bike
+Hayasa,,230 W,Hayasa Ira,,"Rs.76,750*(View On Road Price)",3.8/5,bike
+Hayasa,,230 W,Hayasa Ojas,,"Rs.80,550*(View On Road Price)",5.0/5,bike
+Herald,3-4 Hr,2 kW,Herald Legend,,"Rs.89,410 - 1.24 Lakh*(View On Road Price)",4.4/5,bike
+Herald,3-4 Hr,2 kW,Herald Rider,,"Rs.87,660*(View On Road Price)",3.5/5,bike
+Herald,3-4 Hr,3 kW,Herald Royal,,"Rs.91,150 - 1.23 Lakh*(View On Road Price)",3.7/5,bike
+Hop Electric,3.15 Hr,2.5 kW,Hop Electric LEO,,"Rs.84,360 - 97,504*(View On Road Price)",4.0/5,bike
+Hop Electric,4.45 Hr,4.2 kW,Hop Oxo,,Rs.1.28 - 1.61 Lakh*(View On Road Price),4.3/5,bike
+JHEV,3-4 Hr,3 kW,JHEV Delta R3,,Rs.1.70 Lakh*(View On Road Price),5.0/5,bike
+JHEV,3-4 Hr,2 kW,JHEV Alfa R5,,Rs.1.12 Lakh*(View On Road Price),3.1/5,bike
+JHEV,3-4 Hr,3 kW,JHEV Alfa R3,,Rs.1.25 Lakh*(View On Road Price),4.2/5,bike
+JHEV,3-4 Hr,2 kW,JHEV Alfa R1,,"Rs.89,999*(View On Road Price)",4.2/5,bike
+JHEV,3-4 Hr,3 kW,JHEV Alfa K1,,Rs.1.25 Lakh*(View On Road Price),4.7/5,bike
+JHEV,3-4 Hr,3 kW,JHEV Delta V6,,Rs.1.52 Lakh*(View On Road Price),4.5/5,bike
+JHEV,3-4 Hr,3 kW,JHEV Delta E5,,Rs.1.46 Lakh*(View On Road Price),4.2/5,bike
+Jitendra EV,3.5-4 Hr,1 kW,Jitendra JMT 1000HS,,"Rs.99,999*(View On Road Price)",3.2/5,bike
+Jitendra EV,3.5-4 Hr,1 kW,Jitendra JMT 1000HS 26,,"Rs.89,000*(View On Road Price)",3.2/5,bike
+Jitendra EV,4-4.5 Hr,1 kW,Jitendra JMT 1000 3K,,Rs.1.22 Lakh*(View On Road Price),5.0/5,bike
+Kabira Mobility,3.2 Hr,5 kW,Kabira Mobility KM3000,,Rs.1.63 - 1.74 Lakh*(View On Road Price),4.6/5,bike
+Kabira Mobility,3.2 Hr,5 kW,Kabira Mobility KM4000,,Rs.1.66 - 1.76 Lakh*(View On Road Price),3.7/5,bike
+Kabira Mobility,4 Hr,2.5 kW,Kabira Hermes 75,,"Rs.90,825*(View On Road Price)",3.7/5,bike
+Kinetic Green,5 Hr,2.2 kW,Kinetic Green E Luna,,"Rs.69,990 - 82,490*(View On Road Price)",3.9/5,bike
+Kinetic Green,3-4 Hr,250 W,Kinetic Green Zing,,"Rs.67,990 - 75,990*(View On Road Price)",4.1/5,bike
+Kinetic Green,3-4 Hr,250 W,Kinetic Green Zoom,,"Rs.71,531 - 78,776*(View On Road Price)",3.8/5,bike
+Kinetic Green,3 Hr,1.2 kW,Kinetic Green Flex,,Rs.1.10 Lakh*(View On Road Price),4.1/5,bike
+Kinetic Green,,2.1 kW,Kinetic Green Zulu,,"Rs.79,990*(View On Road Price)",4.1/5,bike
+Kyte Energy,3-4 Hr,2.4 kW,Kyte Energy Magnum,,"Rs.64,360 - 74,360*(View On Road Price)",4.5/5,bike
+Lectrix EV,,,Lectrix NDuro,,"Rs.57,999 - 99,999*(View On Road Price)",4.3/5,bike
+Lectrix EV,3 Hr,1.8 kW,Lectrix EV LXS G 2.0,,"Rs.99,999*(View On Road Price)",4.0/5,bike
+Lectrix EV,5-6 Hr,1.2 kW,Lectrix EV LXS 2.0 Subscription,,"Rs.49,999*(View On Road Price)",4.6/5,bike
+Lectrix EV,7-8 Hr,250 W,Lectrix EV SX25,,"Rs.54,999 - 67,999*(View On Road Price)",3.8/5,bike
+Lectrix EV,2.5-3 Hr,1.9 kW,Lectrix EV LXS,,"Rs.91,399*(View On Road Price)",4.4/5,bike
+Lectrix EV,3 Hr,1.2 kW,Lectrix LXS 2.0,,"Rs.89,990*(View On Road Price)",4.3/5,bike
+Lectrix EV,3.5 Hr,1.2 kW,Lectrix EV LXS 3.0,,Rs.1.02 Lakh*(View On Road Price),4.2/5,bike
+MX Moto,5-6 Hr,4 kW,MX Moto M16,,Rs.1.98 Lakh*(View On Road Price),4.7/5,bike
+MX Moto,,4 kW,MX Moto MX9,,Rs.1.46 Lakh*(View On Road Price),4.4/5,bike
+MX Moto,,3 kW,MX Moto MXV,,"Rs.84,999 - 94,999*(View On Road Price)",1.0/5,bike
+Maruthisan,,,Maruthisan Dream+,,Rs.1.63 Lakh*(View On Road Price),4.2/5,bike
+Maruthisan,,,Maruthisan Beat,,Rs.1.70 Lakh*(View On Road Price),4.4/5,bike
+Maruthisan,,,Maruthisan Racer,,Rs.1.93 Lakh*(View On Road Price),4.9/5,bike
+Maruthisan,,,Maruthisan MS 3.0,,Rs.1.49 - 1.58 Lakh*(View On Road Price),4.0/5,bike
+Moto Morini,649 cc,22 kmpl,Moto Morini SEIEMMEZZO 6 ½,55.7 PS,Rs.4.99 - 5.20 Lakh*(View On Road Price),3.5/5,bike
+Moto Morini,649 cc,23.92 kmpl,Moto Morini X-Cape,60.83 PS,Rs.5.99 - 6.49 Lakh*(View On Road Price),4.5/5,bike
+Motovolt,4.5-5 Hr,1.5 kW,Motovolt M7,,Rs.1.23 Lakh*(View On Road Price),3.8/5,bike
+NIJ Automotive,3-4 Hr,250 W,NIJ Automotive Accelero R14,,"Rs.49,731 - 73,326*(View On Road Price)",4.5/5,bike
+NIJ Automotive,3-4 Hr,250 W,NIJ Automotive Accelero X-Pro,,"Rs.58,100 - 1.10 Lakh*(View On Road Price)",4.9/5,bike
+NIJ Automotive,3-4 Hr,250 W,NIJ Automotive Accelero Plus,,"Rs.55,200 - 77,625*(View On Road Price)",4.0/5,bike
+Nexzu,6.5-7 Hr,250 W,Nexzu Roadlark,,"Rs.32,950 - 41,700*(View On Road Price)",4.2/5,bike
+Nexzu,2.5-3 Hr,250 W,Nexzu Rompus Plus,,"Rs.29,900*(View On Road Price)",5.0/5,bike
+Nexzu,6.5-7 Hr,250 W,Nexzu Bazinga,,"Rs.32,950 - 41,700*(View On Road Price)",3.7/5,bike
+Odysse Electric,3.5 Hr,250 W,Odysse Electric V2,,"Rs.77,250 - 1 Lakh*(View On Road Price)",4.0/5,bike
+Odysse Electric,,,Odysse Electric Evoqis,,Rs.1.18 - 1.71 Lakh*(View On Road Price),4.3/5,bike
+Odysse Electric,,4 Hr,Odysse Electric E2Go,,"Rs.71,100 - 94,100*(View On Road Price)",4.1/5,bike
+Odysse Electric,3.5 Hr,1.8 kW,Odysse Electric Hawk,,"Rs.99,400 - 1.18 Lakh*(View On Road Price)",3.9/5,bike
+Odysse Electric,,4 Hr,Odysse Electric VADER,,Rs.1.62 Lakh*(View On Road Price),4.0/5,bike
+Okaya Electric,5 Hr,3.3 kW,Okaya Ferrato Disruptor,,Rs.1.60 Lakh*(View On Road Price),4.5/5,bike
+Okaya Electric,5-6 Hr,250 W,Okaya Freedum,,"Rs.49,999*(View On Road Price)",4.1/5,bike
+Okaya Electric,4-5 Hr,2.5 kW,Okaya Faast,,Rs.1.05 - 1.10 Lakh*(View On Road Price),3.7/5,bike
+Okaya Electric,3-4 Hr,2.5 kW,Okaya Faast F2B,,"Rs.89,999*(View On Road Price)",4.1/5,bike
+Okaya Electric,,1 kW,Okaya Motofaast,,Rs.1.34 Lakh*(View On Road Price),4.8/5,bike
+Okaya Electric,4-5 Hr,800 W,Okaya Faast F2F,,"Rs.79,999*(View On Road Price)",4.0/5,bike
+Okaya Electric,4-5 Hr,250 W,Okaya ClassIQ,,"Rs.59,999*(View On Road Price)",4.2/5,bike
+Okaya Electric,3-4 Hr,1.2 kW,Okaya Faast F2T,,"Rs.89,999*(View On Road Price)",4.1/5,bike
+Ozotec,,6 Hr,Ozotec Flio,,"Rs.84,990 - 1.33 Lakh*(View On Road Price)",3.1/5,bike
+Ozotec,4.5 Hr,3 kW,Ozotec Bheem,,"Rs.89,990*(View On Road Price)",4.2/5,bike
+Polarity Smart,,3 kW,Polarity Smart Sport,,"Rs.40,000 - 1.10 Lakh*(View On Road Price)",5.0/5,bike
+Polarity Smart,,2.5 kW,Polarity Smart Executive,,"Rs.38,000 - 1.05 Lakh*(View On Road Price)",3.7/5,bike
+QJ Motor,400 cc,20.6 kmpl,QJ Motor SRK 400,41.46 PS,Rs.3.59 - 3.69 Lakh*(View On Road Price),4.5/5,bike
+QJ Motor,480 cc,30 kmpl,QJ Motor SRC 500,25.85 PS,Rs.1.99 Lakh*(View On Road Price),3.5/5,bike
+QJ Motor,249 cc,50 kmpl,QJ Motor SRC 250,17.64 PS,Rs.1.49 Lakh*(View On Road Price),4.7/5,bike
+QJ Motor,296 cc,35 kmpl,QJ Motor SRV 300,30.72 PS,Rs.3.19 Lakh*(View On Road Price),4.0/5,bike
+Quantum Energy,,1.2 kW,Quantum BZiness,,"Rs.96,499 - 1.20 Lakh*(View On Road Price)",3.4/5,bike
+Quantum Energy,,1.5 kW,Quantum Plasma,,"Rs.89,095 - 1.25 Lakh*(View On Road Price)",3.9/5,bike
+Quantum Energy,,1 kW,Quantum Milan,,"Rs.89,000*(View On Road Price)",3.9/5,bike
+Raftaar,4-5 Hr,250 W,Raftaar Cruzer R1,,"Rs.84,500*(View On Road Price)",4.0/5,bike
+Raftaar,4-5 Hr,250 W,Raftaar Bumblebee,,"Rs.88,000*(View On Road Price)",4.1/5,bike
+Raftaar,4-5 Hr,250 W,Raftaar Electrica,,"Rs.48,540 - 70,900*(View On Road Price)",3.8/5,bike
+Raftaar,4-5 Hr,250 W,Raftaar Galaxy,,"Rs.51,900*(View On Road Price)",3.8/5,bike
+Rowwet,3 Hr,2 kW,Rowwet Rame,,Rs.1.15 Lakh*(View On Road Price),5.0/5,bike
+Rowwet,3 Hr,3 kW,Rowwet Trono,,Rs.1.81 Lakh*(View On Road Price),3.8/5,bike
+SVITCH BIKE,,3 kW,SVITCH CSR 762,,Rs.1.90 Lakh*(View On Road Price),4.6/5,bike
+Seeka,,3 kW,Seeka SBolt,,Rs.1.69 Lakh*(View On Road Price),5.0/5,bike
+Seeka,,4 kW,Seeka SSeagun,,Rs.1.52 Lakh*(View On Road Price),4.8/5,bike
+Shema E-Vehicle,6 Hr,1.2 kW,Shema Eagle,,"Rs.64,999 - 1.17 Lakh*(View On Road Price)",3.0/5,bike
+Shema E-Vehicle,6-7 Hr,1.5 kW,Shema Tuff,,"Rs.79,655 - 1.40 Lakh*(View On Road Price)",5.0/5,bike
+Shema E-Vehicle,5 Hr,250 W,Shema Bold,,"Rs.82,200*(View On Road Price)",4.2/5,bike
+Sokudo,4 Hr,3 kW,Sokudo Acute,,"Rs.89,889 - 1.05 Lakh*(View On Road Price)",5.0/5,bike
+Sokudo,,5-6 Hr,Sokudo Plus,,"Rs.59,889*(View On Road Price)",4.7/5,bike
+Sokudo,4-5 Hr,2.3 kW,Sokudo Select,,"Rs.86,889*(View On Road Price)",5.0/5,bike
+Tunwal,6-7 Hr,250 W,Tunwal Strom Advance 2,,Rs.1.35 Lakh*(View On Road Price),5.0/5,bike
+Tunwal,6-7 Hr,250 W,Tunwal Mini Sports 63,,"Rs.49,990*(View On Road Price)",4.3/5,bike
+Tunwal,6-7 Hr,250 W,Tunwal Mini Lithino,,"Rs.54,990*(View On Road Price)",4.4/5,bike
+Tunwal,6-7 Hr,250 W,Tunwal Roma,,"Rs.95,000*(View On Road Price)",4.6/5,bike
+Tunwal,6-7 Hr,250 W,Tunwal Storm ZX,,"Rs.90,000*(View On Road Price)",4.1/5,bike
+Tunwal,6-7 Hr,250 W,Tunwal TZ,,Rs.1.15 Lakh*(View On Road Price),5.0/5,bike
+Tunwal,,,Tunwal Sport,,"Rs.71,990*(View On Road Price)",4.3/5,bike
+Tunwal,4-5 Hr,250 W,Tunwal Lithino Li,,"Rs.74,990*(View On Road Price)",4.5/5,bike
+Tunwal,6-7 Hr,250 W,Tunwal Strom Advance 1,,Rs.1.15 Lakh*(View On Road Price),3.0/5,bike
+Warivo Motors,,5-8 Hr,Warivo Motors Nexa,,"Rs.58,300 - 74,300*(View On Road Price)",4.1/5,bike
+Warivo Motors,,1.5 kW,Warivo CRX,,"Rs.79,999*(View On Road Price)",5.0/5,bike
+YObykes,10 Hr,250 W,Yo Drift DX,,"Rs.65,000 - 70,000*(View On Road Price)",4.5/5,bike
+Yezdi,334 cc,28.53 kmpl,Yezdi Roadster,29 PS,Rs.2.06 - 2.13 Lakh*(View On Road Price),4.2/5,bike
+Yezdi,334 cc,33.07 kmpl,Yezdi Adventure,29.6 PS,Rs.2.10 - 2.20 Lakh*(View On Road Price),4.3/5,bike
+Yezdi,334 cc,32.04 kmpl,Yezdi Scrambler,29.77 PS,Rs.2.10 - 2.16 Lakh*(View On Road Price),4.1/5,bike
+Zelio,,7-8 Hr,Zelio Little Gracy,,"Rs.49,500 - 58,000*(View On Road Price)",4.7/5,bike
+Zelio,,9-10 Hr,Zelio Gracy i,,"Rs.59,273 - 82,273*(View On Road Price)",4.6/5,bike
+Zelio,,4-5 Hr,Zelio Eeva,,"Rs.56,051 - 79,051*(View On Road Price)",4.6/5,bike
+Zelio,,4-5 Hr,Zelio X Men 2.0,,"Rs.69,499 - 91,500*(View On Road Price)",4.6/5,bike
+Zelio,,8-9 Hr,Zelio Eeva Eco,,"Rs.49,500 - 68,000*(View On Road Price)",4.8/5,bike
+Zelo,,3 Hr,Zelo Zoop,,"Rs.45,900 - 86,900*(View On Road Price)",4.4/5,bike
+Zelo,,3 Hr,Zelo Knight,,"Rs.49,900 - 91,900*(View On Road Price)",5.0/5,bike
+Zontes,348 cc,40 kmpl,Zontes 350R,38.52 PS,Rs.2.79 Lakh*(View On Road Price),4.4/5,bike
+Zontes,348 cc,31.25 kmpl,Zontes GK350,38.52 PS,Rs.3.37 - 3.47 Lakh*(View On Road Price),4.4/5,bike
+Zontes,348 cc,23 kmpl,Zontes 350T,39.33 PS,Rs.2.99 Lakh*(View On Road Price),4.0/5,bike
+Zontes,348 cc,36 kmpl,Zontes 350X,39.33 PS,Rs.2.99 Lakh*(View On Road Price),4.4/5,bike
+e-Sprinto,3-4 Hr,250 W,e-Sprinto LS,,"Rs.76,000 - 82,000*(View On Road Price)",4.0/5,bike
+e-Sprinto,3-4 Hr,250 W,e-Sprinto Roamy,,"Rs.54,999*(View On Road Price)",3.7/5,bike
+e-Sprinto,3-4 Hr,800 W,Sprinto HS,,"Rs.86,000 - 97,000*(View On Road Price)",5.0/5,bike
+iVOOMi,5.45 Hr,2.1 kW,iVOOMi Jeet X,,"Rs.84,999 - 1.05 Lakh*(View On Road Price)",4.7/5,bike
+iVOOMi,,1.8 kW,iVOOMi S1,,"Rs.54,999 - 84,999*(View On Road Price)",4.4/5,bike
