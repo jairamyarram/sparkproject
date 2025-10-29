@@ -20,6 +20,7 @@
         def setup_spark(app_name="CSVLoaderApp"):
         spark = SparkSession.builder.appName(app_name).getOrCreate()
         logging.info("Spark session started.")
+        print("logging error")
         return spark
 
         def main():
